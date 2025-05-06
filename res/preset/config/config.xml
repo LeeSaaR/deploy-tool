@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>#NAMEANDVERSION#</Name>
+    <Version>#VERSION#</Version>
+    <Title>#PRODUCTNAME#</Title>
+    <Publisher>#VENDORNAME#</Publisher>
+    <ProductUrl>#VENDORURL#</ProductUrl>
+    <TargetDir>@ApplicationsDir@/#PRODUCTNAME#/#VERSION#</TargetDir>
+    <InstallerWindowIcon>win_icon.png</InstallerWindowIcon>
+    <Logo>logo.png</Logo>
+    <WizardStyle>Modern</WizardStyle>
+    <WizardShowPageList>false</WizardShowPageList>
+    <WizardDefaultWidth>700</WizardDefaultWidth>
+    <WizardDefaultHeight>550</WizardDefaultHeight>
+    <Translations>
+        <Translation>ifw_de</Translation>
+        <Translation>qt_de</Translation>
+    </Translations>
+    <StyleSheet>style.qss</StyleSheet>
+    <TitleColor>#FFFFFF</TitleColor>
+    <ControlScript>controlscript.js</ControlScript>
+</Installer>

@@ -1,0 +1,9 @@
+{
+    "ProductName": "MyAwsomeApp",
+    "ProductVersion": "1.0",
+    "ProductDescription": "Awsome Applikation",
+    "ProductSize": "10 MB",
+    "VendorName": "My Awsome Company",
+    "VendorUrl": "https://my-awsome-company.com",
+    "PackageDomain": "com.myawsomecompany."
+}

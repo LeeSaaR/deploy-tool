@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>#PRODUCTNAME#</DisplayName>
+    <Description>#PRODUCTNAME# installieren.</Description>
+    <Version>#VERSION#</Version>
+    <ReleaseDate>#CURRENTDATE#</ReleaseDate>
+    <Licenses>
+        <License name="GNU GPLv3 Lizensvereinbarung" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <Script>installscript.js</Script>
+</Package>

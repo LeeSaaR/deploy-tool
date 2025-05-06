@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>theme/Default Dark.qss</file>
+        <file>preset/config/config.xml</file>
+        <file>preset/config/controlscript.js</file>
+        <file>preset/config/style.qss</file>
+        <file>preset/packages/com.vendor.template/meta/installscript.js</file>
+        <file>preset/packages/com.vendor.template/meta/license.txt</file>
+        <file>preset/packages/com.vendor.template/meta/package.xml</file>
+    </qresource>
+</RCC>
